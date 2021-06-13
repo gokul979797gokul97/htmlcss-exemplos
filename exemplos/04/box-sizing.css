@@ -1,5 +1,5 @@
 body {
-  padding: 50px;
+  padding: 70px;
 }
 
 * {
@@ -13,6 +13,6 @@ body {
 
 .box-with-padding {
   background-color: LightBlue;
-  padding: 0 25px;
+  padding: 0 27px;
   width: 250px;
 }
